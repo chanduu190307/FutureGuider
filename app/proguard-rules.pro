@@ -1,0 +1,2 @@
+-keep class com.futureguider.data.local.entities.** { *; }
+-keep class com.futureguider.domain.model.** { *; }
